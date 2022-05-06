@@ -1,0 +1,9 @@
+Collection/List of Miscellaneous Ideas for the Custom Game
+This list will be added to as and when I get any (probably) dumb ideas
+==================================================================================================================
+
+- Mars Arena gets gradually smaller, e.g. -100 radius/second
+
+- Bloodseeker Aghs changed to continually fear enemy heroes around him
+
+- Vector Targeted Fissure
