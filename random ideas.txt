@@ -3,10 +3,11 @@ This list will be added to as and when I get any (probably) dumb ideas
 ==================================================================================================================
 
 - Mars Arena gets gradually smaller, e.g. -100 radius/second
+      - Arena segments can be attacked an destroyed/Attacks going through arena wall are reduced by Bulwark%
+      
+- Bloodseeker Aghs changed to continually fear enemy heroes around him & grant bonus thirst MS instead of heal
 
-- Bloodseeker Aghs changed to continually fear enemy heroes around him
-
-- Vector Targeted Fissure
+- Vector Targeted Fissure with Shaker Aghs
 
 - Gyro & Medusa: Put Flak Functionality onto Medusa Splitshot (i.e. active w/ cooldown to attack everything in range for X hits at 100% damage); turn side gunner into normal spell:
       -Toggle: 1.4/1.2/1.0/0.8s delay for instant attack dealing 50/60/70/80% Damage on random enemy in 700 range while toggled on, fully procs on-hits. Prioritises furthest unit in range.
