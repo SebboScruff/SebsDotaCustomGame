@@ -7,3 +7,10 @@ This list will be added to as and when I get any (probably) dumb ideas
 - Bloodseeker Aghs changed to continually fear enemy heroes around him
 
 - Vector Targeted Fissure
+
+- Gyro & Medusa: Put Flak Functionality onto Medusa Splitshot (i.e. active w/ cooldown to attack everything in range for X hits at 100% damage); turn side gunner into normal spell:
+      -Toggle: 1.4/1.2/1.0/0.8s delay for instant attack dealing 50/60/70/80% Damage on random enemy in 700 range while toggled on, fully procs on-hits. Prioritises furthest unit in range.
+      -Talent:  10R +300 Flak Range -> +15% Side Gunner Damage
+                15L +2 Flak Hits -> +200 Side Gunner Range
+                25R -6 Flak Cooldown -> -0.4s Side Gunner delay
+      -Aghanim's: every 3rd side gunner hit attacks all units in range
