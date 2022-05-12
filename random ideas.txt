@@ -18,3 +18,6 @@ This list will be added to as and when I get any (probably) dumb ideas
       
      
 - Sniper: Combine Headshot+Take Aim into one spell, give new spell in slot 2 TBD
+
+-IO: Aghanim's changed: Permanent Spirits -> Spirits function like kinetic field (enemies cannot pass through the gap between 2 spirits)
+      Talent Change: 25R +400 HP to tethered units -> Permanent Spirits
