@@ -19,5 +19,19 @@ This list will be added to as and when I get any (probably) dumb ideas
      
 - Sniper: Combine Headshot+Take Aim into one spell, give new spell in slot 2 TBD
 
--IO: Aghanim's changed: Permanent Spirits -> Spirits function like kinetic field (enemies cannot pass through the gap between 2 spirits)
-      Talent Change: 25R +400 HP to tethered units -> Permanent Spirits
+- Revenant's Brooch Item Change:
+      -Recipe: Witch Blade + Ghost Scepter + Mystic Staff + Recipe (400)
+      -Grants 45 Intelligence, 5 Strength, 5 Agility, 7 Armor, 35 Attack Speed, 300 Projectile Speed
+      -New Active: Toggle On to become ethereal and gain a buff that allows you to attack while ethereal, as well as attack ethereal units. Causes standard attacks to deal magical damage and have True Strike. Drains 2.5% of max mana per second while active.
+
+- Helios Beacon: New Item
+      - Recipe: Solar Crest + Glimmer Cape + Recipe (450)
+      - Grants 2.5 Mana Regon, 20 Movement Speed, 8 Armor, 20% Magic Resist
+      - When cast on an ally, grants them 8 armor, 50 attack speed, 10% movement speed, 25% magic resistance, and a 0.6s fade time invisibility. When cast on an enemy, removes 8 armor, 50 attack speed, 10% movement speed, 25% magic resistance, and grants True Sight over them. Lasts 12 seconds. Removes 6 armor and 10% magic resistance from the user when used.
+      
+- Duality Wand: New Item
+      - Recipe: Holy Locket + Dagon 1 + Recipe (700)
+      - Grants 10 Strength, 10 Agility, 20 Agility, 250 HP, 300 Mana
+      - Aura: Grants 3.5 HP regen to allies within range. Amplifies heals you provide by 30%.
+      - Greater Energy Charge: Gains a charge every 10 seconds and whenever a visible enemy within 1200 range uses an ability. Maximum 25 charges. Targets an ally to heal or an enemy to damage an amount of HP equal to 20 + 25 per charge. Instantly kills illusions.
+      
