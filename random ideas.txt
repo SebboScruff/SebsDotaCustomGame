@@ -15,9 +15,6 @@ This list will be added to as and when I get any (probably) dumb ideas
                 15L +2 Flak Hits -> +200 Side Gunner Range
                 25R -6 Flak Cooldown -> -0.4s Side Gunner delay
       -Aghanim's: Every 4th Side Gunner attack targets all enemies in range
-      
-     
-- Sniper: Combine Headshot+Take Aim into one spell, give new spell in slot 2 TBD
 
 - Revenant's Brooch Item Change:
       -Recipe: Witch Blade + Ghost Scepter + Mystic Staff + Recipe (400)
@@ -35,3 +32,14 @@ This list will be added to as and when I get any (probably) dumb ideas
       - Aura: Grants 3.5 HP regen to allies within range. Amplifies heals you provide by 30%.
       - Greater Energy Charge: Gains a charge every 10 seconds and whenever a visible enemy within 1200 range uses an ability. Maximum 25 charges. Targets an ally to heal or an enemy to damage an amount of HP equal to 20 + 25 per charge. Instantly kills illusions.
       
+- Shadow Fiend Hero Rework:
+      - Shadowraze (Q,W,E): functionally the same, but now carries Necromastery as well. Hitting an enemy with Shadowraze marks them with a Shadowbrand, a stackable debuff that causes Nevermore to deal 5/7/9/11% more damage from any source to them per stack (max. 3 stacks). If Shadow Fiend kills an enemy with a Shadowbrand, he consumes their soul, empowering his other spells. Shadow Fiend can hold 6/12/18/24 souls total.
+      - Presence of the Dark Lord (D): Nevermore's presence shakes the resolve of his enemies, reducing their damage by 0.6/0.8/1.0/1.2% per soul in his collection.
+      - New Spell: Abyssal Wind (F; Autocast): Shadow Fiend brings forth a swirling storm from the Abysm for 0.25s per soul in his collection. If autocast is turned on, enemies will be pulled towards Nevermore; if turned off, they will be pushed away. While active, Shadowraze's Shadowbrand debuff additionally slows for 5/10/15/20% per stack. The wind direction dynamically changes if autocast is toggled while the spell is active.
+      - Requiem of Souls: Functions the same as it currently does, minus the fear aspect.
+
+- Sniper Hero Rework: 
+      - Shrapnel (Q): Unchanged
+      - Take Aim (W): Passively increases attack range. Can be activated to grant Bonus Damage, True Strike, and a Ministun on each attack, at the cost of 20% movement speed reduction
+      - Concussive Grenade (E): Current Shard ability moved to regular skill slot. Deals 50/120/190/260 damage and disarms/slows for 3s.
+      - Assassinate: Same functionality, cast time from 2->2/1.5/1
